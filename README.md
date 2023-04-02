@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/97145305/229357913-37ade987-fc83-4b4f-
 
 1. run the chicken_escape.py
 2. play the game 
-3. for each escape the soire will be incremented by 5 and when collision happens score is reduced by -50  and 
+3. for each escape the score will be incremented by 5 and when collision happens score is reduced by -50  and 
    when your score gets -150 the will stop
    
 ## Libraries used
