@@ -2,13 +2,13 @@
 ![pygame](https://user-images.githubusercontent.com/97145305/229355375-39e861c2-c26c-45d9-9e69-acf7b06571d4.png)
 
 
-##Chicken Escape Game
+## Chicken Escape Game
 
 This is a chicken escape game.In this game, the user tries to avoid collision with the chicken
 You can start this game game by running the chicken_escape.py file.
 
 
-##Team Members
+## Team Members
 1.Don Joshi N
 2.Shreyas Santhosh
 
