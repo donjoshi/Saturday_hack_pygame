@@ -9,8 +9,15 @@ You can start this game game by running the chicken_escape.py file.
 
 
 ## Team Members
-1.Don Joshi N
-2.Shreyas Santhosh
+
+1. [Don Joshi N](https://github.com/donjoshi)
+2. [Shreyas Santhosh](https://github.com/shreyas0512)
+
+## link to producu walk through
+
+
+https://user-images.githubusercontent.com/97145305/229357913-37ade987-fc83-4b4f-8b10-d83ff0b63676.mp4
+
 
 ## How it Works
 
@@ -18,6 +25,7 @@ You can start this game game by running the chicken_escape.py file.
 2. play the game 
 3. for each escape the soire will be incremented by 5 and when collision happens score is reduced by -50  and 
    when your score gets -150 the will stop
+   
 ## Libraries used
 
 1.pygame
